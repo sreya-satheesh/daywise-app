@@ -8,11 +8,11 @@ Simply enter your tasks, deadlines, and priorities — and let DayWise do the re
 
 ## Features
 
-- ⭐ **Schedule Input** — Add tasks, appointments, and reminders.  
-- 🤖 **Smart Scheduler** — AI-driven schedule generation based on priorities and deadlines.  
-- 📅 **Visual Timeline** — View your day in a clear timeline or calendar format.  
-- 🔔 **Notifications** — Get reminders for upcoming events.  
-- 🖱 **Drag & Drop** — Manually adjust and reorder tasks.
+- **Schedule Input** — Add tasks, appointments, and reminders.  
+- **Smart Scheduler** — AI-driven schedule generation based on priorities and deadlines.  
+- **Visual Timeline** — View your day in a clear timeline or calendar format.  
+- **Notifications** — Get reminders for upcoming events.  
+- **Drag & Drop** — Manually adjust and reorder tasks.
 
 ## 🛠 Tech Stack
 
