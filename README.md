@@ -14,7 +14,7 @@ Simply enter your tasks, deadlines, and priorities — and let DayWise do the re
 - **Notifications** — Get reminders for upcoming events.  
 - **Drag & Drop** — Manually adjust and reorder tasks.
 
-## 🛠 Tech Stack
+## Tech Stack
 
 - **Next.js** — Frontend + API Routes  
 - **Tailwind CSS** — UI styling  
