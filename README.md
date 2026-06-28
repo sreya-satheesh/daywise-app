@@ -25,7 +25,7 @@ Simply enter your tasks, deadlines, and priorities — and let DayWise do the re
 
 1. **Clone the repository**
    ```
-   git clone https://github.com/sreya-satheesh/day-wise.git
+   git clone https://github.com/sreya-satheesh/daywise-app.git
    cd day-wise
    ```
 2. **Install dependencies**
